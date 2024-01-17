@@ -2,12 +2,30 @@ body{
     background-color:slategrey;
     color:white;
 }
+
 h1{
     color:paleturquoise;
 }
+
 p{
     color:aliceblue;
 }
+
 img{
     border-radius: 50%;
+}
+
+#special{ 
+    color:#191970;
+    background-color:#B0E0E6
+}
+
+#special2{
+    color:#191970;
+    background-color:#B0E0E6
+}
+
+#special3{
+    color:#191970;
+    background-color:#B0E0E6
 }
