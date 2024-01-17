@@ -29,3 +29,11 @@ img{
     color:#191970;
     background-color:#B0E0E6
 }
+
+hr{
+    border:1px solid #191970;
+}
+
+#specialhr{
+    border: 2px solid #191970;
+}
