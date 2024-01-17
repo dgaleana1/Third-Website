@@ -1,39 +1,47 @@
-body{
-    background-color:slategrey;
-    color:white;
+body {
+    background-color: slategrey;
+    color: white;
 }
 
-h1{
-    color:paleturquoise;
+h1 {
+    color: paleturquoise;
 }
 
-p{
-    color:aliceblue;
+p {
+    color: aliceblue;
 }
 
-img{
+img {
     border-radius: 50%;
 }
 
-#special{ 
-    color:#191970;
-    background-color:#B0E0E6
+#special {
+    color: #191970;
+    background-color: #B0E0E6
 }
 
-#special2{
-    color:#191970;
-    background-color:#B0E0E6
+#special2 {
+    color: #191970;
+    background-color: #B0E0E6
 }
 
-#special3{
-    color:#191970;
-    background-color:#B0E0E6
+#special3 {
+    color: #191970;
+    background-color: #B0E0E6
 }
 
-hr{
-    border:1px solid #191970;
+hr {
+    border: 1px solid #191970;
 }
 
-#specialhr{
+#specialhr {
     border: 2px solid #191970;
+}
+
+ol{
+    color: #B0E0E6;
+}
+
+ul{
+    color:#191970;
 }
